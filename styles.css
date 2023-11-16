@@ -34,6 +34,8 @@ p {
 .card-group {
     display: flex;
     max-width: 920px;
+    border-radius: 8px;
+    overflow: hidden;
 }
 
 .card {
